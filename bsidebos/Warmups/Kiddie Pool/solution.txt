@@ -1,0 +1,1 @@
+You are given an image which is swirled. Use https://www.photo-kako.com/en/swirl.cgi to unswirl the image and read the flag.

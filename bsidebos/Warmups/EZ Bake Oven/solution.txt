@@ -1,0 +1,1 @@
+You are directed to a website where you must bake magic cookies which take 7200 minutes. When you cook them, you are given a cookie which states when the cookies started baking. The cookie is encoded in base64. By editting the cookie so you started baking it in the past, you can instantly bake the cookies and retrieve the flag.

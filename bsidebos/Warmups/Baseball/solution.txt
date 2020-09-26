@@ -1,0 +1,1 @@
+You are given a string which has been encoded with different bases (base64, base32, etc.). Decode the message using CyberChef's magic option with depth 3.

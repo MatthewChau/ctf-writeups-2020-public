@@ -1,0 +1,9 @@
+By running strings on the image you get:
+
+JFIF
+$3br
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+        #3R
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+This hints towards steghide if you google the strings. The password for the steghide extract is hidden in the menu.jpg in the form of a shifted number-letter cipher.

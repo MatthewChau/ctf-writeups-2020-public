@@ -1,0 +1,1 @@
+You are given a pcap file. Follow the TCP stream and save it as raw. This will take a few minutes. You can then delete the header information in the raw file, and then rename the file to a jpeg if you want too. The next step is to use cyberchef image extraction or possibly binwalk to get a multitide of images which make the flag when put together.
