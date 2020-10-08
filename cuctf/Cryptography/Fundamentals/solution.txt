@@ -1,0 +1,5 @@
+This is a simple base64 encoded string. First we decode it with any base64 tool. We are then left with a encrypted message.
+A hint points us towards the xor cipher, which can be brute forced.
+
+https://www.base64decode.org/
+https://www.dcode.fr/xor-cipher
